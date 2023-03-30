@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Diffie-Hellmann.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Diffie-Hellmann.vcxproj -> D:\Учеба в БГТУ\Ржеутская ОЗИ\Диффи-Хеллман\Diffie-Hellmann\Debug\Cryptography.exe
